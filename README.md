@@ -5,15 +5,6 @@
 2.OBJECTIVES
 - This dashboard serves a dual purpose: acting as an Operational Tracker for daily business health and a Diagnostic Instrument to investigate the underlying causes of the Q2 performance slump and provide analytical insights to support decision-making and optimize business profitability.
 
-Phase 1: Operational Monitoring (The "What")
-  - Track High-Level KPIs: Monitor real-time fluctuations in Total Revenue, Order Volume, and Average Order Value (AOV) to detect anomalies immediately.
-  - Logistics Oversight: Assess the efficiency of the supply chain by tracking Delivery Status (Shipped, Cancelled, Pending) across different courier partners
-  - Inventory Health: Identify "Best-Sellers" vs. "Slow-Movers" to optimize stock levels for the upcoming festive season.
-
- Phase 2: Root Cause Discovery (The "Why")
-  - Diagnose the Revenue Dip: Drill down into the June data to determine if the sales drop was caused by high cancellation rate, low marketing spend, or stock unavailability.
-  - Pinpoint Cancellation Drivers: Correlate Cancellation Rates with specific dimensions (e.g., Is the cancellation rate higher for Merchant-fulfilled orders vs. Amazon-fulfilled? Is it specific to certain cities?).
-
 3.WORKFLOW
 - The project execution followed a structured end-to-end BI development lifecycle:
 

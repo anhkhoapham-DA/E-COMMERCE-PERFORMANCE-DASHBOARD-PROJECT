@@ -3,7 +3,7 @@
 - This project simulates a real-world scenario for a fashion retailer on Amazon India, specializing in ethnic wear (Kurtas, Sets). While the brand saw steady traction in early 2022, the stakeholders flagged a critical performance slump during Q2 (April - June).
 
 2.OBJECTIVES
-This dashboard serves a dual purpose: acting as an Operational Tracker for daily business health and a Diagnostic Instrument to investigate the underlying causes of the Q2 performance slump and provide analytical insights to support decision-making and optimize business profitability.
+- This dashboard serves a dual purpose: acting as an Operational Tracker for daily business health and a Diagnostic Instrument to investigate the underlying causes of the Q2 performance slump and provide analytical insights to support decision-making and optimize business profitability.
 
 Phase 1: Operational Monitoring (The "What")
   - Track High-Level KPIs: Monitor real-time fluctuations in Total Revenue, Order Volume, and Average Order Value (AOV) to detect anomalies immediately.

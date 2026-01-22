@@ -65,7 +65,7 @@ Page 3: Customer Intelligence & Targeting
 
 Page 4: Logistics Performance Analysis
 
-<img width="1939" height="1087" alt="Ảnh chụp màn hình 2026-01-22 121818" src="https://github.com/user-attachments/assets/85f5815e-2bd4-4108-bdd2-055356d13897" />
+<img width="1578" height="879" alt="Ảnh chụp màn hình 2026-01-22 213838" src="https://github.com/user-attachments/assets/0ea5c55a-489e-4a63-853f-1f682bd7d52b" />
 
   - Profitability Dynamics (Amazon vs. Merchant): Amazon is the dominant profit contributor, consistently generating ~3x more value than Merchant fulfillment. However, the total profit decline in June was driven by a sharp 30% drop in Merchant performance (20M to 14M), while Amazon remained relatively stable.
   - Insight: While Amazon is the financial backbone, the volatility in Merchant Fulfillment is currently dragging down overall growth. Operations must stabilize Merchant capacity to prevent it from eroding the gains made by the primary Amazon channel.

@@ -15,7 +15,7 @@ Phase 1: Operational Monitoring (The "What")
   - Pinpoint Cancellation Drivers: Correlate Cancellation Rates with specific dimensions (e.g., Is the cancellation rate higher for Merchant-fulfilled orders vs. Amazon-fulfilled? Is it specific to certain cities?).
 
 3.WORKFLOW
-The project execution followed a structured end-to-end BI development lifecycle:
+- The project execution followed a structured end-to-end BI development lifecycle:
 
 Phase 1: Requirement Analysis & Design
   - Problem Definition: Identified the core business objective — diagnosing the Q2 revenue dip and operational inefficiencies.

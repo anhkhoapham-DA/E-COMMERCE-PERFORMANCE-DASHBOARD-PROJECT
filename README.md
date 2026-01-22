@@ -3,7 +3,7 @@
 - This project simulates a real-world scenario for a fashion retailer on Amazon India, specializing in ethnic wear (Kurtas, Sets). While the brand saw steady traction in early 2022, the stakeholders flagged a critical performance slump during Q2 (April - June).
 
 2.OBJECTIVES
-This dashboard serves a dual purpose: acting as an Operational Tracker for daily business health and a Diagnostic Instrument to investigate the underlying causes of the Q2 performance slump.
+This dashboard serves a dual purpose: acting as an Operational Tracker for daily business health and a Diagnostic Instrument to investigate the underlying causes of the Q2 performance slump and provide analytical insights to support decision-making and optimize business profitability.
 
 Phase 1: Operational Monitoring (The "What")
   - Track High-Level KPIs: Monitor real-time fluctuations in Total Revenue, Order Volume, and Average Order Value (AOV) to detect anomalies immediately.
@@ -63,14 +63,21 @@ Page 2: Product Performance
 
 Page 3: Customer Intelligence & Targeting
 
-  - The "Power User" Segment (Adults): The Adult age group is the undisputed backbone of the business, contributing 57.61% of total revenue and profit.
+<img width="1932" height="1081" alt="Ảnh chụp màn hình 2026-01-22 121803" src="https://github.com/user-attachments/assets/48ce2a85-fd61-43ce-8ffa-c6c3208d1dd8" />
+
+  - The "Power User" Segment (Adults): The Adult age group is the undisputed backbone of the business, contributing 57.61% of total customers.
   -> Strategy: Marketing budget allocation should follow the Pareto Principle, focusing 80% of retention efforts (Loyalty Programs, Email Marketing) on this specific demographic to maximize Customer Lifetime Value (CLV).
   - Generational Product Mapping: A clear divergence in style preference was observed across age groups: Young Adults: Show a strong affinity for Western Dresses & Tops, indicating a trend-driven fashion sense. Adults: Primarily purchase Sets (Kurta + Bottom), prioritizing complete outfits/value bundles. Middle-Aged: Prefer standalone Kurtas, likely for daily comfort or traditional wear.
+  - Actionable Insight: The website/app interface should implement Personalized Recommendations based on user age data (e.g., hiding Western wear for Middle-aged users) to increase conversion rates.
+  - The "Sunday Effect" (Shopping Habits): Sunday emerged as the peak trading day with the highest traffic and order volume.
+  - Operational Shift: This behavior suggests customers shop during leisure time. Therefore, Marketing Campaigns (Push Notifications/Newsletters) should be scheduled for Saturday evenings or Sunday mornings to capture this intent. Additionally, Customer Support bandwidth should be maximized on weekends.
 
-Actionable Insight: The website/app interface should implement Personalized Recommendations based on user age data (e.g., hiding Western wear for Middle-aged users) to increase conversion rates.
+Page 4: Logistics Performance Analysis
 
-The "Sunday Effect" (Shopping Habits):
+<img width="1939" height="1087" alt="Ảnh chụp màn hình 2026-01-22 121818" src="https://github.com/user-attachments/assets/85f5815e-2bd4-4108-bdd2-055356d13897" />
 
-Sunday emerged as the peak trading day with the highest traffic and order volume.
-
-Operational Shift: This behavior suggests customers shop during leisure time. Therefore, Marketing Campaigns (Push Notifications/Newsletters) should be scheduled for Saturday evenings or Sunday mornings to capture this intent. Additionally, Customer Support bandwidth should be maximized on weekends.
+  - Profitability Dynamics (Amazon vs. Merchant): Amazon is the dominant profit contributor, consistently generating ~3x more value than Merchant fulfillment. However, the total profit decline in June was driven by a sharp 30% drop in Merchant performance (20M to 14M), while Amazon remained relatively stable.
+  - Insight: While Amazon is the financial backbone, the volatility in Merchant Fulfillment is currently dragging down overall growth. Operations must stabilize Merchant capacity to prevent it from eroding the gains made by the primary Amazon channel.
+  - Geographic Dependency (Maharashtra & Karnataka): The heatmap identifies Maharashtra and Karnataka as the overwhelming volume drivers for the business.
+  - Risk & Strategy: These two states represent a critical "Single Point of Failure." Logistics planning must ensure multiple courier partners and warehouse redundancy in these specific regions to prevent localized disruptions from crippling total output.
+  - Cost Optimization (Shipping Types): Expedited Shipping accounts for 70.22% of all orders, significantly driving up logistics costs compared to Standard delivery (29.78%).

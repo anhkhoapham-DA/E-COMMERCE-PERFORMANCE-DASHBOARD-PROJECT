@@ -63,7 +63,7 @@ Page 3: Customer Intelligence & Targeting
   - The "Sunday Effect" (Shopping Habits): Sunday emerged as the peak trading day with the highest traffic and order volume.
   - Operational Shift: This behavior suggests customers shop during leisure time. Therefore, Marketing Campaigns (Push Notifications/Newsletters) should be scheduled for Saturday evenings or Sunday mornings to capture this intent. Additionally, Customer Support bandwidth should be maximized on weekends.
 
-Page 4: Logistics Performance Analysis
+Page 4: Logistics Performance Analysis (Focusing on Shipping & Fulfilment)
 
 <img width="1578" height="879" alt="Ảnh chụp màn hình 2026-01-22 213838" src="https://github.com/user-attachments/assets/0ea5c55a-489e-4a63-853f-1f682bd7d52b" />
 

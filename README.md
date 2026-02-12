@@ -43,7 +43,7 @@ The Price-Volume Trade-off (Inverse Correlation):
 
 Page 2: Product Performance
 
-<img width="1939" height="1090" alt="Ảnh chụp màn hình 2026-01-22 121748" src="https://github.com/user-attachments/assets/3832a140-10f6-4c51-8333-26bb2f994122" />
+<img width="1932" height="1089" alt="Ảnh chụp màn hình 2026-02-12 094315" src="https://github.com/user-attachments/assets/2cfb191c-db12-45f8-a90d-657b76df664f" />
 
   - Pricing Misalignment (The "Dupatta" Anomaly): The Dupatta category exhibits an extremely high profit markup (52.28%) & margin (34.33%) despite having a low production cost. However, it recorded a negligible sales volume of only 3 units for the entire quarter
   - Volume Drivers vs. Margin: In contrast, core categories like Sets, Kurtas, and Western Dresses show a balanced "High Volume - Moderate Margin" profile. These items are priced competitively, acting as the primary revenue engines (Cash Cows) for the business.
